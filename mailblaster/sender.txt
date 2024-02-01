@@ -1,0 +1,4 @@
+example@example.com PASSWORD server.example.com 465
+example@example.com PASSWORD server.example.com 465
+example@example.com PASSWORD server.example.com 465
+example@example.com PASSWORD server.example.com 465
