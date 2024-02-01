@@ -1,5 +1,5 @@
 
-<img src="mailblaster_thumbnail.jpg" width="200" />
+<img src="mailblaster_thumbnail.jpg" width="300" />
 <pre>
  █▄ ▄█ ▄▀▄ █ █   ██▄ █   ▄▀▄ ▄▀▀ ▀█▀ ██▀ █▀▄ 
  █ ▀ █ █▀█ █ █▄▄ █▄█ █▄▄ █▀█ ▄██  █  █▄▄ █▀▄ 
