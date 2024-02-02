@@ -20,13 +20,13 @@ cd mailblaster/mailblaster
 ```
 python3 mailblaster.py
 ```
-.<br>
-.<br>
+<br>
+<br>
 alternatively you can install it with pip
 ```
 pip install mailblaster
 ```
-.<br>
-.<br>
+<br>
+<br>
 made by <a href="https://prim4t.art/portfoliode/">PRIM4T</a><br>
 contibutions are welcome
