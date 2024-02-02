@@ -22,7 +22,8 @@ python3 mailblaster.py
 ```
 <br>
 <br>
-alternatively you can install it with pip
+alternatively you can install it with pip 
+
 ```
 pip install mailblaster
 ```
