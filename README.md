@@ -25,6 +25,6 @@ alternatively you can install it with pip
 pip install mailblaster
 ```
 <br>
-made by <a href="https://prim4t.art/portfoliode/">PRIM4T</a><br>
+made by <a href="https://prim4t.art">PRIM4T</a><br>
 contibutions are welcome
 
